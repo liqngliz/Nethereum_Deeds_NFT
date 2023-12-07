@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nethreum.Deeds.NFT.props" />
+</Project>

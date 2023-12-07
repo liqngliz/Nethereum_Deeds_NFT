@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Nethreum.Deeds.NFT.props" />
+</Project>
